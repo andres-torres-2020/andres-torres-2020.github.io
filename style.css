@@ -1,0 +1,33 @@
+header, #footer, #footer.a
+{
+	background-color:lime;
+	color:black;
+	font-family: helvetica;
+}
+#activities
+{
+	//background-color:orange;
+	border-left:solid;
+	font-family: helvetica;
+}
+#development
+{
+	//background-color:yellow;
+	border-left:solid;
+	font-family: helvetica;
+}
+#hometown
+{
+	border-left:solid;
+	font-family: helvetica;
+}
+#portfolio
+{
+	border-left:solid;
+	font-family: helvetica;
+}
+#bio
+{
+	border-left:solid;
+	font-family: helvetica;
+}
